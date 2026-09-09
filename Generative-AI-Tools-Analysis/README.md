@@ -156,11 +156,11 @@ The forecast indicates a potential stabilization and more moderated growth beyon
 
 ## 📸 Dashboard Preview
 
-![Generative AI Tools Dashboard](dashboard_preview.png)
+![Generative AI Tools Dashboard](Dashboard/dashboard_preview.png)
 
 ### 🎥 Dashboard Demo
 
-![Generative AI Tools Tableau Dashboard Demo](dashboard_demo.gif)
+![Dashboard Demo](Dashboard/dashboard_demo.gif)
 
 ---
 

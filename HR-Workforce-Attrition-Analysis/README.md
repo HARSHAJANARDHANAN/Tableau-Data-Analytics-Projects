@@ -149,6 +149,11 @@ The analysis provides a clear view of workforce composition and employee attriti
 These insights can help HR teams understand where attrition is concentrated, identify workforce trends, and make more informed decisions regarding employee retention, recruitment, and workforce planning.
 
 
+## 🔗 Tableau Dashboard
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/harsha.janardhanan/viz/HR_analysis_17889657631850/Dashboard)
+
+
 
 ## 👤 Author
 

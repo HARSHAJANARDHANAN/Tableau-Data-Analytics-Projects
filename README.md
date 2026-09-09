@@ -57,4 +57,8 @@ An interactive Tableau dashboard analyzing and comparing Generative AI tools acr
 
 **Harsha Janardhanan**
 
-Data Analyst | SQL | Excel | Power BI | Tableau | Python
+**Data Analyst | Python | SQL | Excel | Power BI | Tableau**
+
+📧 **[Email Me](mailto: harshajanardhanan2@gmail.com)**  
+
+🔗 **LinkedIn:** **[Harsha Janardhanan](https://www.linkedin.com/in/harshajanardhanan/)**
